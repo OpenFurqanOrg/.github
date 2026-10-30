@@ -6,7 +6,8 @@
 <p align="center">Calm, ad-free apps for reading, understanding and memorizing the Quran.</p>
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.openfurqan.app"><b>Get it on Google Play</b></a> ·
-  <a href="https://openfurqan.com"><b>openfurqan.com</b></a>
+  <a href="https://openfurqan.com"><b>openfurqan.com</b></a> ·
+  <a href="https://github.com/OpenFurqanOrg/openfurqan-android/blob/main/CHANGELOG.md"><b>What's new</b></a>
 </p>
 
 ---
@@ -19,6 +20,8 @@
 - Hadith linked to the ayahs they explain
 - 16 reciters, with the text following the recitation
 - Memorize with daily review, and learn Quran vocabulary
+
+Release notes, bug reports and ideas: **[openfurqan-android](https://github.com/OpenFurqanOrg/openfurqan-android)**
 
 ### OpenFurqan on the web
 
