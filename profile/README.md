@@ -27,10 +27,12 @@ Release notes, bug reports and ideas: **[openfurqan-android](https://github.com/
 
 The Quran in your browser at [openfurqan.com](https://openfurqan.com): reader, tafsir, word meanings and memorization.
 
+Its code is open source: **[openfurqan-web](https://github.com/OpenFurqanOrg/openfurqan-web)**
+
 ### What we hold to
 
 - **Content first.** The Quran leads; the interface stays quiet.
-- **Private by design.** No ads, no account, no data collected.
+- **Private by design.** No ads, no account; what you save stays on your device.
 - **Sources credited.** Every translation, tafsir and dataset is credited to its author and publisher.
 
-<sub>Contact: openfurqan@gmail.com</sub>
+<sub>Contact: contact@openfurqan.com</sub>
